@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="400" viewBox="0 0 500 400" data-scale="12">
+  <title>Working Blueprint Sample</title>
+  <desc>Simple blueprint with a tagged built-up area and labeled fixtures.</desc>
+
+  <rect id="builtup-area" x="10" y="10" width="480" height="360" fill="none" stroke="#111827" stroke-width="4"/>
+
+  <rect id="door-1" x="30" y="360" width="30" height="6" fill="#2563eb"/>
+  <rect id="door-2" x="110" y="360" width="30" height="6" fill="#2563eb"/>
+  <rect id="door-3" x="190" y="360" width="30" height="6" fill="#2563eb"/>
+
+  <rect id="window-1" x="60" y="20" width="50" height="8" fill="#22c55e"/>
+  <rect id="window-2" x="170" y="20" width="50" height="8" fill="#22c55e"/>
+  <rect id="window-3" x="280" y="20" width="50" height="8" fill="#22c55e"/>
+  <rect id="window-4" x="390" y="20" width="50" height="8" fill="#22c55e"/>
+
+  <rect id="closet-1" x="40" y="60" width="30" height="30" fill="#f59e0b"/>
+  <rect id="closet-2" x="90" y="60" width="30" height="30" fill="#f59e0b"/>
+
+  <circle id="toilet-1" cx="390" cy="80" r="12" fill="#ef4444"/>
+  <circle id="toilet-2" cx="430" cy="80" r="12" fill="#ef4444"/>
+  <circle id="shower-1" cx="390" cy="130" r="16" fill="#a855f7"/>
+
+  <circle id="sink-kitchen" cx="90" cy="160" r="10" fill="#0ea5e9"/>
+  <circle id="sink-bath-1" cx="130" cy="160" r="10" fill="#0ea5e9"/>
+  <rect id="cabinet-1" x="60" y="200" width="28" height="20" fill="#d97706"/>
+  <rect id="dishwasher-1" x="100" y="200" width="24" height="24" fill="#14b8a6"/>
+  <rect id="stove-1" x="140" y="200" width="26" height="20" fill="#64748b"/>
+  <rect id="refrigerator-1" x="180" y="200" width="22" height="32" fill="#94a3b8"/>
+
+  <rect id="outdoor-patio" x="500" y="40" width="40" height="40" fill="#84cc16"/>
+</svg>

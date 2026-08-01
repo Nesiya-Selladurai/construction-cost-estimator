@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360">
+  <rect id="builtup-area" x="0" y="0" width="480" height="360" fill="none" stroke="#1e3a8a" stroke-width="2"/>
+
+  <rect id="door-1" x="10" y="10" width="20" height="4" fill="#333"/>
+  <rect id="door-2" x="200" y="10" width="20" height="4" fill="#333"/>
+  <rect id="door-3" x="400" y="120" width="20" height="4" fill="#333"/>
+
+  <rect id="window-1" x="60" y="0" width="30" height="4" fill="#3b82f6"/>
+  <rect id="window-2" x="150" y="0" width="30" height="4" fill="#3b82f6"/>
+  <rect id="window-3" x="300" y="0" width="30" height="4" fill="#3b82f6"/>
+  <rect id="window-4" x="0" y="150" width="4" height="30" fill="#3b82f6"/>
+
+  <rect id="closet-1" x="250" y="40" width="20" height="30" fill="#a3a3a3"/>
+  <rect id="closet-2" x="250" y="90" width="20" height="30" fill="#a3a3a3"/>
+
+  <circle id="toilet-1" cx="350" cy="60" r="8" fill="#93c5fd"/>
+  <circle id="toilet-2" cx="350" cy="200" r="8" fill="#93c5fd"/>
+
+  <rect id="shower-1" x="380" y="40" width="40" height="40" fill="#bfdbfe"/>
+
+  <rect id="sink-kitchen" x="30" y="300" width="30" height="15" fill="#60a5fa"/>
+  <rect id="sink-bath-1" x="330" y="300" width="20" height="10" fill="#60a5fa"/>
+
+  <rect id="cabinet-1" x="0" y="280" width="120" height="20" fill="#d4d4d4"/>
+
+  <rect id="dishwasher-1" x="130" y="280" width="20" height="20" fill="#737373"/>
+
+  <rect id="stove-1" x="160" y="280" width="25" height="20" fill="#525252"/>
+
+  <rect id="refrigerator-1" x="0" y="250" width="25" height="30" fill="#e5e5e5"/>
+
+  <rect id="outdoor-patio" x="420" y="200" width="55" height="140" fill="#bbf7d0"/>
+
+  <title>Sample 2BHK Blueprint</title>
+</svg>
