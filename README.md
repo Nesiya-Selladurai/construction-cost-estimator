@@ -193,7 +193,6 @@ The API returns:
 - Project history
 - AI chatbot assistance
 - PDF report generation
-- Multi-page PDF analysis
 - YOLO-based blueprint object detection
 - Cloud deployment
 
